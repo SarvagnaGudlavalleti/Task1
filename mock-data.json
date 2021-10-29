@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "sno": 1,
+    "firstname": "Neha",
+    "lastname": "Varma",
+    "phoneNumber": "556 84 2356"
+  }, {
+    "id": 2,
+    "sno": 2,
+    "firstname": "Ram",
+    "lastname": "Gaikwad",
+    "phoneNumber": "242 592 4560"
+  }, {
+    "id": 3,
+    "sno": 3,
+    "firstname": "Ritish",
+    "lastname": "Goenka",
+    "phoneNumber": "867 789 7857"
+  }, {
+    "id": 4,
+    "sno": 4,
+    "firstname": "Priya",
+    "lastname": "Chopra",
+    "phoneNumber": "754 123 9879"
+  }, {
+    "id": 5,
+    "sno": 5,
+    "firstname": "Anupama",
+    "lastname": "Kothapalli",
+    "phoneNumber": "285 905 0837"
+  }, {
+    "id": 6,
+    "sno": 6,
+    "firstname": "Grace",
+    "lastname": "Andrea",
+    "phoneNumber": "860 648 6139"
+  }, {
+    "id": 7,
+    "sno": 7,
+    "firstname": "Meghana",
+    "lastname": "Kotha",
+    "phoneNumber": "586 850 8513"
+  }, {
+    "id": 8,
+    "sno": 8,
+    "firstname": "Kushi",
+    "lastname": "Reddy",
+    "phoneNumber": "963 544 8741"
+  }, {
+    "id": 9,
+    "sno": 9,
+    "firstname": "Harsh",
+    "lastname": "Trivedi",
+    "phoneNumber": "245 950 8050"
+  }, {
+    "id": 10,
+    "sno": 10,
+    "firstname": "Rohit",
+    "lastname": "Shetty",
+    "phoneNumber": "982 654 2815"
+  }]
